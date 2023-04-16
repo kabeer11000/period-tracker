@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e812e100c9f466227a0e655ab2d1ce04",
+    "revision": "4ea2941373c0647d7f9ddfb8bb8e4c0c",
     "url": "/period-tracker/index.html"
   },
   {
-    "revision": "40ced5158b8a9ce6c771",
-    "url": "/period-tracker/static/css/2.219df87e.chunk.css"
+    "revision": "35c95249ac6c08771097",
+    "url": "/period-tracker/static/css/2.0b1ddb6b.chunk.css"
   },
   {
-    "revision": "3a8b7f727c5a912c725f",
-    "url": "/period-tracker/static/css/main.22c591d9.chunk.css"
+    "revision": "805588ec347ab1f5d6a8",
+    "url": "/period-tracker/static/css/main.3d8b997a.chunk.css"
   },
   {
-    "revision": "40ced5158b8a9ce6c771",
-    "url": "/period-tracker/static/js/2.41be440a.chunk.js"
+    "revision": "35c95249ac6c08771097",
+    "url": "/period-tracker/static/js/2.eb1deace.chunk.js"
   },
   {
-    "revision": "3a8b7f727c5a912c725f",
-    "url": "/period-tracker/static/js/main.3dad0efd.chunk.js"
+    "revision": "805588ec347ab1f5d6a8",
+    "url": "/period-tracker/static/js/main.4226ba85.chunk.js"
   },
   {
     "revision": "f09834fa1dd524955f53",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/period-tracker/static/media/1.f1c75bfe.png"
   },
   {
+    "revision": "494f506d945dec9fa9258ac1e314a129",
+    "url": "/period-tracker/static/media/1_click.494f506d.png"
+  },
+  {
     "revision": "106f80751892d2638235070f54004cd1",
     "url": "/period-tracker/static/media/2.106f8075.png"
   },
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/period-tracker/static/media/2.b8ef385d.png"
   },
   {
+    "revision": "0d23e35a9287d99c20328be470ebde76",
+    "url": "/period-tracker/static/media/2_click.0d23e35a.png"
+  },
+  {
     "revision": "4f28454634190487a96b5920b534094c",
     "url": "/period-tracker/static/media/3.4f284546.png"
   },
@@ -68,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/period-tracker/static/media/3.a634a3b0.png"
   },
   {
+    "revision": "6ee4a807dd12829b3a5499eb274dcbb8",
+    "url": "/period-tracker/static/media/3_click.6ee4a807.png"
+  },
+  {
     "revision": "6a7661c5fcd161c28715e6afc3fdf70e",
     "url": "/period-tracker/static/media/4.6a7661c5.png"
   },
@@ -78,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae79ef0c84a29ec9c9d3c50b56a23201",
     "url": "/period-tracker/static/media/4.ae79ef0c.png"
+  },
+  {
+    "revision": "fb1c35774c3c566f6bcb91a7103b19dd",
+    "url": "/period-tracker/static/media/4_click.fb1c3577.png"
   },
   {
     "revision": "d79f564bbb69e710b4ed851294c8f9e5",
